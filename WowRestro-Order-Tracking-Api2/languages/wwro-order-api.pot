@@ -1,0 +1,73 @@
+# Copyright (C) 2022 MagniGenie
+# This file is distributed under the same license as the WOWRestro - Order Api plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WOWRestro - Order Api 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wowrestro-order-tracking-api\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-01-21T15:56:40+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: wwro-order-api\n"
+
+#. Plugin Name of the plugin
+msgid "WOWRestro - Order Api"
+msgstr ""
+
+#. Description of the plugin
+msgid "Allows to fetch WOWrestro orders details"
+msgstr ""
+
+#. Author of the plugin
+msgid "MagniGenie"
+msgstr ""
+
+#: includes/class-wwro-order-api-endpoints.php:104
+msgid "You have received a new order !!"
+msgstr ""
+
+#: includes/class-wwro-order-api-endpoints.php:105
+msgid " %s has placed a new order. Order total is %s %s "
+msgstr ""
+
+#: includes/class-wwro-order-api-endpoints.php:170
+msgid "Device ID is empty"
+msgstr ""
+
+#: includes/class-wwro-order-api-endpoints.php:180
+#: includes/class-wwro-order-api-endpoints.php:290
+#: includes/class-wwro-order-api-endpoints.php:386
+#: includes/class-wwro-order-api-endpoints.php:431
+#: includes/class-wwro-order-api-endpoints.php:516
+#: includes/class-wwro-order-api-endpoints.php:616
+msgid "Please provide the API key to proceed."
+msgstr ""
+
+#: includes/class-wwro-order-api-endpoints.php:238
+#: includes/class-wwro-order-api-endpoints.php:241
+msgid "You have given invalid API key. Kindly check again."
+msgstr ""
+
+#: includes/class-wwro-order-api-endpoints.php:255
+msgid "Please provide valid device ID"
+msgstr ""
+
+#: includes/class-wwro-order-api-endpoints.php:262
+msgid "Device ID already exist."
+msgstr ""
+
+#: includes/class-wwro-order-api-endpoints.php:318
+msgid "Please provide a valid Email Id and Password."
+msgstr ""
+
+#: includes/class-wwro-order-api-endpoints.php:359
+msgid "Registration was Successful"
+msgstr ""
+
+#: includes/class-wwro-order-api-endpoints.php:400
+msgid "API key accepted"
+msgstr ""
